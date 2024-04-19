@@ -1,5 +1,5 @@
 http://:8080 {
-    reverse_proxy https://gointerstellar.app {
-        header_up Host gointerstellar.app
+    reverse_proxy https://websitesball.com {
+        header_up Host websitesball.com
     }
 }
